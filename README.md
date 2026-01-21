@@ -1,5 +1,5 @@
 # Hi, I'm Jessica 👋
-Currently a final-semester **Master of IT (AI)** student at University of Melbourne.
+Currently wrapping up my **Master of IT (AI)** @ UniMelb. 
 
 ## 🔧 Tech
 - **Languages:** Python, Java, SQL/MySQL
